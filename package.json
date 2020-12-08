@@ -3,6 +3,10 @@
   "displayName": "vim-leave-insertmode",
   "description": "Returns text editor panels to normal mode when they lose keyboard focus",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xaviergmail/vscodevim-leave-insertmode.git"
+  },
   "engines": {
     "vscode": "^1.51.0"
   },
